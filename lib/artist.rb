@@ -16,7 +16,7 @@ class Artist
   end
 
   def self.all
-    binding.pry
+    # binding.pry
     @@all
   end
 
